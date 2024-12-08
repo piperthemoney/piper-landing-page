@@ -17,7 +17,7 @@ function Home() {
           to="/download"
           className="inline-flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 md:py-4 md:text-lg md:px-10 transition duration-150 ease-in-out"
         >
-          Download Now
+          Go to Downlaod
         </Link>
       </div>
       <div className="grid md:grid-cols-3 gap-8">
